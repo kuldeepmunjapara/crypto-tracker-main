@@ -15,13 +15,13 @@ function Footer() {
         CryptoTracker<span>.</span>
       </h2>
       <div className="social-links">
-        <a href="https://github.com/MRer009">
+        <a href="https://github.com/kuldeepmunjapara">
           <GitHubIcon className="social-link" />
         </a>
-        <a href="mailto:bhargavsojitra009@gmail.com">
+        <a href="mailto:kuldeepmunjapara23@gmail.com">
           <EmailIcon className="social-link" />
         </a>
-        <a href="https://www.linkedin.com/in/sojitra-bhargav-0ab82122a/">
+        <a href="https://www.linkedin.com/in/kuldeep-munjapra-1b2265257/">
           <LinkedInIcon className="social-link" />
         </a>
       </div>
